@@ -1,0 +1,5 @@
+{
+  "name": "Fraud Detection Dashboard",
+  "description": "A user interface for a fraud detection system for digital payments. Users can search for transactions and the system will use an AI to analyze and flag suspicious activity.",
+  "requestFramePermissions": []
+}
